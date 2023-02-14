@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* 
+**********************
+common classes
+**********************
+*/
+
+.w-full{
+    width: 100%;
+}
+
+.h-full{
+    height: 100vh;
+}
+
+.img{
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* 
+**************************
+image 
+**************************
+*/
+.image1{
+    background-image: url(https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    
+}
+
+.image2{
+    background-image: url(https://images.pexels.com/photos/3586966/pexels-photo-3586966.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    
+}
+
+.image3{
+    background-image: url(https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    
+}
+
+.image4{
+    background-image: url(https://images.pexels.com/photos/461940/pexels-photo-461940.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    
+}
